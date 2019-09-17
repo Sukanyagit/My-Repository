@@ -3,5 +3,4 @@
   <groupId>com.simpleproject</groupId>
   <artifactId>maven-helloworld</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <packaging>war</packaging>
-</project>
+  </project>
